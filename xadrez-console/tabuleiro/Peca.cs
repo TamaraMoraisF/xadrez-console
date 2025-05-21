@@ -21,7 +21,7 @@ namespace tabuleiro
             qteMovimentos++;
         }
 
-        internal void descrementarQteMovimentos()
+        internal void decrementarQteMovimentos()
         {
             qteMovimentos--;
         }
